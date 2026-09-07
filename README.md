@@ -33,7 +33,7 @@
 
 ## About The Project
 
-**HR Management Portal** is a full-stack web application built to help HR teams manage employee records, leave requests, approvals, and workforce insights from one place.
+**WorkforcePilot** is a full-stack web application built to help HR teams manage employee records, leave requests, approvals, and workforce insights from one place.
 
 Most basic HR portals only store employee data. This project solves a more practical workflow problem:
 
