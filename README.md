@@ -1,10 +1,9 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:2563EB,100:22C55E&text=HR%20Management%20Portal&fontColor=FFFFFF&fontSize=42&fontAlignY=36&animation=fadeIn" alt="HR Management Portal Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:2563EB,100:22C55E&text=WorkforcePilot&fontColor=FFFFFF&fontSize=48&fontAlignY=36&animation=fadeIn" alt="WorkforcePilot Banner" />
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=780&lines=Full-Stack+HR+Management+System;Employee+Records+%7C+Leave+Workflow+%7C+Dashboard+Analytics;Built+with+Angular%2C+Spring+Boot%2C+JPA+and+OracleDB" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=WorkforcePilot+-+Company+HR+Portal;Employee+Records+%7C+Leave+Workflow+%7C+Dashboard+Analytics;Built+with+Angular%2C+Spring+Boot%2C+JPA+and+OracleDB" alt="Typing animation" />
 
   <br />
   <br />
@@ -33,7 +32,7 @@
 
 ## About The Project
 
-**WorkforcePilot** is a full-stack web application built to help HR teams manage employee records, leave requests, approvals, and workforce insights from one place.
+**WorkforcePilot - Company HR Portal** is a full-stack web application built to help HR teams manage employee records, leave requests, approvals, and workforce insights from one place.
 
 Most basic HR portals only store employee data. This project solves a more practical workflow problem:
 
@@ -126,8 +125,8 @@ This project is not only an employee list application. It connects multiple HR w
 ## Project Architecture
 
 ```text
-HR-management/
-├── HR-management/                  # Angular frontend
+WorkforcePilot/
+├── WorkforcePilot/                  # Angular frontend
 │   ├── src/app/core/                # Layout and auth services
 │   ├── src/app/features/            # Dashboard, employees, leaves, auth pages
 │   ├── src/app/pages/               # Apply leave page
